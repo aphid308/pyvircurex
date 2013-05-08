@@ -2,5 +2,5 @@
 *.swp
 build/*
 dist/*
-pyvircurex/*
+pyvircurex.egg-info/*
 
