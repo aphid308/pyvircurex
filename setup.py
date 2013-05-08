@@ -7,7 +7,7 @@ def read(fname):
 
 
 setup(
-    name='mexbtcapi',
+    name='pyvircurex',
     version='0.1',
     description="The VirCurEx Trade API",
     long_description=read('README.md'),
