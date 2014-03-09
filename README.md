@@ -1,4 +1,5 @@
 Trade cryptocurrencies on the [vircurex](http://vircurex.com) exchange quickly and easily.
+This fork will simply port the http request functions to using the Requests library.
 
 ##Usage
 
